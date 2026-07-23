@@ -1,0 +1,8 @@
+jumlah_produk = int(input("Masukkan jumlah produk yang dihasilkan hari ini: "))
+
+if jumlah_produk < 50:
+    print("Anda tidak mendapatkan insentif.")
+elif jumlah_produk >= 50 and jumlah_produk <= 100:
+    print("Anda mendapatkan insentif Rp50.000.")
+else:
+    print("Anda mendapatkan insentif Rp100.000.")

@@ -1,0 +1,118 @@
+name: cultulingo
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+
+  flutter:
+    sdk: flutter
+  google_fonts: ^6.2.1
+  flutter_svg: ^2.0.10+1
+  http: ^1.2.2
+  path_provider: ^2.1.4
+  shared_preferences: ^2.2.3
+  sqflite: ^2.3.3+1
+  grouped_list: ^5.1.2
+  audioplayers: ^6.1.0
+  flutter_tts: ^3.6.0
+  firebase_core: ^4.12.1
+  cloud_firestore: ^6.7.1
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/logo.png
+    - assets/button-image.png
+    - assets/splash/splash1.svg
+    - assets/splash/splash2.svg
+    - assets/auth/login.svg
+    - assets/bg-batik.png
+    - assets/profile.png
+    - assets/banner1.png
+    - assets/banner.png
+    - assets/images/banner2.png
+    - assets/images/back.png
+    - assets/images/menu.png
+    - assets/images/continue.png
+    - assets/kebutuhan-cultulingo.png
+    - assets/audio/bromoquiz7.mp3
+    - assets/audio/quizbromo8.mp3
+    - assets/audio/quizbromo9.mp3
+    - assets/audio/quizbromo10.mp3
+    - assets/audio/quizbutterfly6.mp3
+    - assets/audio/quizbutterfly7.mp3
+    - assets/audio/quizbutterfly8.mp3
+    - assets/audio/quizbutterfly9.mp3
+    - assets/audio/quizbutterfly10.mp3
+    - assets/audio/quizpasopati6.mp3
+    - assets/audio/quizpasopati7.mp3
+    - assets/audio/quizpasopati8.mp3
+    - assets/audio/quizpasopati9.mp3
+    - assets/audio/quizpasopati10.mp3
+    - assets/audio/quizsumateran6.mp3
+    - assets/audio/quizsumateran7.mp3
+    - assets/audio/quizsumateran8.mp3
+    - assets/audio/quizsumateran9.mp3
+    - assets/audio/quizsumateran10.mp3
+    - assets/audio/quizjars6.mp3
+    - assets/audio/quizjars7.mp3
+    - assets/audio/quizjars8.mp3
+    - assets/audio/quizjars9.mp3
+    - assets/audio/quizjars10.mp3
+    - assets/audio/quizmountain6.mp3
+    - assets/audio/quizmountain7.mp3
+    - assets/audio/quizmountain8.mp3
+    - assets/audio/quizmountain9.mp3
+    - assets/audio/quizmountain10.mp3
+    - assets/audio/quizsawah6.mp3
+    - assets/audio/quizsawah7.mp3
+    - assets/audio/quizsawah8.mp3
+    - assets/audio/quizsawah9.mp3
+    - assets/audio/quizsawah10.mp3
+    - assets/audio/quizwaru6.mp3
+    - assets/audio/quizwaru7.mp3
+    - assets/audio/quizwaru8.mp3
+    - assets/audio/quizwaru9.mp3
+    - assets/audio/quizwaru10.mp3
+    - assets/audio/quizborneo6.mp3
+    - assets/audio/quizborneo7.mp3
+    - assets/audio/quizborneo8.mp3
+    - assets/audio/quizborneo9.mp3
+    - assets/audio/quizborneo10.mp3
+    - assets/audio/quizhunter6.mp3
+    - assets/audio/quizhunter7.mp3
+    - assets/audio/quizhunter8.mp3
+    - assets/audio/quizhunter9.mp3
+    - assets/audio/quizhunter10.mp3
+    - assets/audio/quizkarang6.mp3
+    - assets/audio/quizkarang7.mp3
+    - assets/audio/quizkarang8.mp3
+    - assets/audio/quizkarang9.mp3
+    - assets/audio/quizkarang10.mp3
+    - assets/audio/quizsquirrel6.mp3
+    - assets/audio/quizsquirrel7.mp3
+    - assets/audio/quizsquirrel8.mp3
+    - assets/audio/quizsquirrel9.mp3
+    - assets/audio/quizsquirrel10.mp3
+    - assets/images/bromo.jpg
+    - assets/images/butterfly.jpg
+    - assets/images/pasopati.png
+    - assets/images/sumateran.png
+    - assets/images/jars.png
+    - assets/images/mountain.png
+    - assets/images/sawah.png
+    - assets/images/waru.png
+    - assets/images/tigers.png
+    - assets/images/hunter.png
+    - assets/images/karang.png
+    - assets/images/squirrel.png
